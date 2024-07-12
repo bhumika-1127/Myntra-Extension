@@ -40,16 +40,21 @@ To run the backend server for the extension, follow these steps:
 
 If you haven't already cloned the repository, do so using:
 
-```sh
+```bash
 git clone https://github.com/bhumika-1127/Myntra-Extension.git
+```
+```bash
 cd Myntra-Extension
+```
 
-### 1. **Clone the Repository**
-```sh
+### 2. **Install Requirements**
+```bash
 pip install -r requirements.txt
-```sh
+```
+### 3. **Run Flask Server**
+```bash
 python app.py
-
+```
 
 ### Loading the Chrome Extension
 
