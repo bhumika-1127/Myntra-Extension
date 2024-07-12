@@ -3,7 +3,7 @@ The Myntra Extension provides users with recommendations for similar fashion ite
 
 ## Components
 
-- **Chrome Extension**: 
+- **Frontend**: 
   - `popup.html` provides the basic structure of the extension.
   - `popup.js` extracts the current URL of the page and dynamically updates the content to add links redirecting to similar items on Myntra.
 - **Web Scraping**: 
