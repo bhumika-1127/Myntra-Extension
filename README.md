@@ -1,5 +1,5 @@
 # Myntra Extension
-Myntra Extension is a chrome extension that allows users to get recommendations for similar fashion items from Myntra through their desired webpage.
+The Myntra Extension provides users with recommendations for similar fashion items from Myntra based on the clothing items currently visible on their webpage.
 
 ## Components
 
