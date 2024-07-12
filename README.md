@@ -65,7 +65,7 @@ python app.py
 
 3. **Load Unpacked Extension**:
    - Click on the "Load unpacked" button.
-   - In the file dialog that opens, select the directory with manifest.json file of your project.
+   - In the file dialog that opens, select the `Myntra-Extension` directory.
 
 4. **Verify the Extension**:
    - The extension should now appear in your list of installed extensions.
