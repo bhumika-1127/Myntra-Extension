@@ -1,5 +1,5 @@
 # Myntra Extension
-The extension's frontend consists of `popup.html` and `popup.js`, while the backend functionality is provided by a Flask app (`app.py`).
+Myntra Extension is a chrome extension that allows users to get recommendations for similar fashion items from Myntra through their desired webpage.
 
 ## Components
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Loading the Chrome Extension
+## Loading the Chrome Extension
 
 1. **Open Chrome** and navigate to `chrome://extensions/`.
 
